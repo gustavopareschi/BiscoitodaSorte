@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Biscoito da sorte é uma aplicação que ao clicar no biscoito gera uma frase motivacional.
 
-- [Acesse o projeto finalizado, online](https://gustavopareschi.github.io/JogoAdivinhacao)
+- [Acesse o projeto finalizado, online](https://gustavopareschi.github.io/BiscoitodaSorte)
 
 ## 🔖 Layout
 
